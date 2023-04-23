@@ -1,0 +1,4 @@
+ai_goals:
+- Please look for movies
+ai_name: Movies
+ai_role: FInd me a movie
